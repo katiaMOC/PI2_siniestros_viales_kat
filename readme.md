@@ -34,7 +34,7 @@ Se plantearon tres objetivos relacionados con la disminución de las víctimas f
 `Propuesta de KPI`
 * Para este KPI se vio el analisis de datos, y obtuvimos que un 41.67% son accidentes en autopista, para esto se propuso e siguiente KPI:
     Reducir en un 10% la cantidad de accidentes mortales en la comuna 1 en el último año, en CABA, respecto al año anterior.
-![Imagen de KPIS](https://github.com/katiaMOC/PI2_siniestros_viales_kat/imagenes/kpis.png)
+![Imagen de KPIS](https://github.com/katiaMOC/PI2_siniestros_viales_kat/blob/main/Imagenes/kpis.png)
 
  
 # Conclusiones y Recomendaciones
